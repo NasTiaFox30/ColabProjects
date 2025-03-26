@@ -1,4 +1,4 @@
-⚡ Google Colab Projects
+# ⚡ Google Colab Projects
 
 Welcome to my collection of Google Colab projects!
 Here, you'll find various interactive notebooks covering different topics, from data analysis and machine learning to automation and experiments with Python.
